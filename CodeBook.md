@@ -3,84 +3,88 @@
 This code book summarizes the variables in the average data set
 
 ## Variables
-*Subject*
-*Activity*
-*tBodyAccMeanX*
-*tBodyAccMeanY*
-*tBodyAccMeanZ*
-*tBodyAccStdX*
-*tBodyAccStdY*
-*tBodyAccStdZ*
-*tGravityAccMeanX*
-*tGravityAccMeanY*
-*tGravityAccMeanZ*
-*tGravityAccStdX*
-*tGravityAccStdY*
-*tGravityAccStdZ*
-*tBodyAccJerkMeanX*
-*tBodyAccJerkMeanY*
-*tBodyAccJerkMeanZ*
-*tBodyAccJerkStdX*
-*tBodyAccJerkStdY*
-*tBodyAccJerkStdZ*
-*tBodyGyroMeanX*
-*tBodyGyroMeanY*
-*tBodyGyroMeanZ*
-*tBodyGyroStdX*
-*tBodyGyroStdY*
-*tBodyGyroStdZ*
-*tBodyGyroJerkMeanX*
-*tBodyGyroJerkMeanY*
-*tBodyGyroJerkMeanZ*
-*tBodyGyroJerkStdX*
-*tBodyGyroJerkStdY*
-*tBodyGyroJerkStdZ*
-*tBodyAccMagMean*
-*tBodyAccMagStd*
-*tGravityAccMagMean*
-*tGravityAccMagStd*
-*tBodyAccJerkMagMean*
-*tBodyAccJerkMagStd*
-*tBodyGyroMagMean*
-*tBodyGyroMagStd*
-*tBodyGyroJerkMagMean*
-*tBodyGyroJerkMagStd*
-*fBodyAccMeanX*
-*fBodyAccMeanY*
-*fBodyAccMeanZ*
-*fBodyAccStdX*
-*fBodyAccStdY*
-*fBodyAccStdZ*
-*fBodyAccMeanFreqX*
-*fBodyAccMeanFreqY*
-*fBodyAccMeanFreqZ*
-*fBodyAccJerkMeanX*
-*fBodyAccJerkMeanY*
-*fBodyAccJerkMeanZ*
-*fBodyAccJerkStdX*
-*fBodyAccJerkStdY*
-*fBodyAccJerkStdZ*
-*fBodyAccJerkMeanFreqX*
-*fBodyAccJerkMeanFreqY*
-*fBodyAccJerkMeanFreqZ*
-*fBodyGyroMeanX*
-*fBodyGyroMeanY*
-*fBodyGyroMeanZ*
-*fBodyGyroStdX*
-*fBodyGyroStdY*
-*fBodyGyroStdZ*
-*fBodyGyroMeanFreqX*
-*fBodyGyroMeanFreqY*
-*fBodyGyroMeanFreqZ*
-*fBodyAccMagMean*
-*fBodyAccMagStd*
-*fBodyAccMagMeanFreq*
-*fBodyBodyAccJerkMagMean*
-*fBodyBodyAccJerkMagStd*
-*fBodyBodyAccJerkMagMeanFreq*
-*fBodyBodyGyroMagMean*
-*fBodyBodyGyroMagStd*
-*fBodyBodyGyroMagMeanFreq*
-*fBodyBodyGyroJerkMagMean*
-*fBodyBodyGyroJerkMagStd*
-*fBodyBodyGyroJerkMagMeanFreq*
+
+### Experiment information
+* 'Subject' - identifier of the subject who carried out the experiment
+* 'Activity' - activity label
+
+### Measurements
+* tBodyAccMeanX
+* tBodyAccMeanY
+* tBodyAccMeanZ
+* tBodyAccStdX
+* tBodyAccStdY
+* tBodyAccStdZ
+* tGravityAccMeanX
+* tGravityAccMeanY
+* tGravityAccMeanZ
+* tGravityAccStdX
+* tGravityAccStdY
+* tGravityAccStdZ
+* tBodyAccJerkMeanX
+* tBodyAccJerkMeanY
+* tBodyAccJerkMeanZ
+* tBodyAccJerkStdX
+* tBodyAccJerkStdY
+* tBodyAccJerkStdZ
+* tBodyGyroMeanX
+* tBodyGyroMeanY
+* tBodyGyroMeanZ
+* tBodyGyroStdX
+* tBodyGyroStdY
+* tBodyGyroStdZ
+* tBodyGyroJerkMeanX
+* tBodyGyroJerkMeanY
+* tBodyGyroJerkMeanZ
+* tBodyGyroJerkStdX
+* tBodyGyroJerkStdY
+* tBodyGyroJerkStdZ
+* tBodyAccMagMean
+* tBodyAccMagStd
+* tGravityAccMagMean
+* tGravityAccMagStd
+* tBodyAccJerkMagMean
+* tBodyAccJerkMagStd
+* tBodyGyroMagMean
+* tBodyGyroMagStd
+* tBodyGyroJerkMagMean
+*tBodyGyroJerkMagStd
+*fBodyAccMeanX
+*fBodyAccMeanY
+*fBodyAccMeanZ
+*fBodyAccStdX
+*fBodyAccStdY
+*fBodyAccStdZ
+*fBodyAccMeanFreqX
+*fBodyAccMeanFreqY
+*fBodyAccMeanFreqZ
+*fBodyAccJerkMeanX
+*fBodyAccJerkMeanY
+*fBodyAccJerkMeanZ
+*fBodyAccJerkStdX
+*fBodyAccJerkStdY
+*fBodyAccJerkStdZ
+*fBodyAccJerkMeanFreqX
+*fBodyAccJerkMeanFreqY
+*fBodyAccJerkMeanFreqZ
+*fBodyGyroMeanX
+*fBodyGyroMeanY
+*fBodyGyroMeanZ
+*fBodyGyroStdX
+*fBodyGyroStdY
+*fBodyGyroStdZ
+*fBodyGyroMeanFreqX
+*fBodyGyroMeanFreqY
+*fBodyGyroMeanFreqZ
+*fBodyAccMagMean
+*fBodyAccMagStd
+*fBodyAccMagMeanFreq
+*fBodyBodyAccJerkMagMean
+*fBodyBodyAccJerkMagStd
+*fBodyBodyAccJerkMagMeanFreq
+*fBodyBodyGyroMagMean
+*fBodyBodyGyroMagStd
+*fBodyBodyGyroMagMeanFreq
+*fBodyBodyGyroJerkMagMean
+*fBodyBodyGyroJerkMagStd
+*fBodyBodyGyroJerkMagMeanFreq
